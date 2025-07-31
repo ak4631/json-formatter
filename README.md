@@ -22,7 +22,7 @@
 
 ## 📷 Preview
 
-![JSON Formatter Screenshot](./screenshot.png) <!-- Add screenshot if you have -->
+![JSON Formatter Screenshot](./website.png) <!-- Add screenshot if you have -->
 
 ## 💡 Why Use This JSON Formatter?
 
